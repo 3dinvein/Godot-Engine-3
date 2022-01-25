@@ -1,6 +1,6 @@
 # Godot Engine Versão 3.x 
 <center>
-<img src="GodotEngine.png"/>
+<img src="GodotEngine.png" width="600" height="686"/>
 </center>
 
 # Protótipos baseados em meus tutoriais para ajudar a comunidade Godot
