@@ -4,17 +4,17 @@
 </p>
 
 # Protótipos baseados em meus tutoriais
-<p>
- ## Tutorial de FPS
- </p>
+<br><br>
+## Tutorial de FPS
+<br><br>
 
 <p align="center">
 <img src="GodotEngine2.png" width="897px" height="505px" />
 </p>
 
-<p>
- ## Tutorial de Inventário
-</p>
+<br><br>
+## Tutorial de Inventário
+<br><br>
 
 <p align="center">
 <img src="Inventario1.png" width="897px" height="505px" />
@@ -25,9 +25,9 @@
 <img src="Inventario2.png" width="897px" height="505px" />
 </p>
 
-<p>
- ## Protótipos Extras
-</p>
+<br><br>
+## Protótipos Extras
+<br><br>
 
 <p align="center">
 <img src="ChovendoFrutas1.png" width="897px" height="505px" />
